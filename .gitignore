@@ -16,3 +16,17 @@ build/
 # Mac/Windows
 .DS_Store
 Thumbs.db
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+*.iml
+*.lock
+.idea/
+.vscode/
+android/.gradle/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
